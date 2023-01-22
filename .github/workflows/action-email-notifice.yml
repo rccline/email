@@ -35,7 +35,7 @@ jobs:
           run: |
             echo Add other actions to build,
             echo test, and deploy your project.
-  jo2:
+  job2:
     - name: Send mail
     uses: dawidd6/action-send-mail@v3
     with:
