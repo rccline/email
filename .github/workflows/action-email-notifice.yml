@@ -59,8 +59,8 @@ jobs:
     # Required mail subject:
     subject: Github Actions job result
     # Required recipients' addresses:
-    to: obiwan@example.com,yoda@example.com
+    to: rccline@fastmail.fm,2dcline@gmail.com
     # Required sender full name (address can be skipped):
-    from: Luke Skywalker # <user@example.com>
+    from: Robert Cline Sr # <rccline@fastmail.fm>
     # Optional plain body:
     body: Build job of ${{github.repository}} completed successfully!
